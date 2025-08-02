@@ -39,11 +39,11 @@
 
 Use augmented reality (AR) to pick and place a selection of furniture models into your surroundings in real-time using your mobile's live video footage of your current surroundings. This project leverages ThreeJS to render the scene and furniture models, WebXR to enable AR mode with estimated real-time environment lighting, hit testing for furniture placement on the floor, and dom-overlay to render the UI.
 
-View the live demo on your mobile at: https://github.com/padmavatisb/AR_Room_Decor_main
+View the live demo on your mobile at: https://padmavatisb.github.io/AR_Room_Decor_main/
 
 ## :checkered_flag: Starting
 
-1. Using your phone, go to the live website at: https://padmavatisb.github.io/AR_RoomDecor/
+1. Using your phone, go to the live website at: https://padmavatisb.github.io/AR_Room_Decor_main/
 2. See the `Enter AR` button at the bottom of the screen and click it
 3. Allow phone permissions to use the camera
 4. See the row of furniture selections in the bottom banner that is horizontally scrollable. When you click the furniture thumbnail, a white border appears around your selection

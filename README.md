@@ -39,8 +39,7 @@
 
 Use augmented reality (AR) to pick and place a selection of furniture models into your surroundings in real-time using your mobile's live video footage of your current surroundings. This project leverages ThreeJS to render the scene and furniture models, WebXR to enable AR mode with estimated real-time environment lighting, hit testing for furniture placement on the floor, and dom-overlay to render the UI.
 
-View the live demo on your mobile at: https://padmavatisb.github.io/AR_RoomDecor/
-
+View the live demo on your mobile at: https://github.com/padmavatisb/AR_Room_Decor_main
 
 ## :checkered_flag: Starting
 
@@ -79,7 +78,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone [https://padmavatisb.github.io/AR_RoomDecor/]
+$ git clone [https://github.com/padmavatisb/AR_Room_Decor_main]
 
 # Access
 $ cd AR RoomDecor

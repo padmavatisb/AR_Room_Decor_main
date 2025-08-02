@@ -1,6 +1,6 @@
 
 <div align="center" id="top"> 
-	<h1>AR-Room Decor</h1>
+	<h1>InRoom AR- a augmented room decor experience</h1>
 
 <!---<a href="https://roomdecor-arpadmavati.netlify.app/">Demo</a>
 

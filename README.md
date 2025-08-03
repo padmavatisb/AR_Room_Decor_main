@@ -77,13 +77,12 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ## :sparkles: Demo
 <img width="516" height="710" alt="image" src="https://github.com/user-attachments/assets/a2661748-0fdc-48e9-bbdb-97cc6874023d" />
 <img width="437" height="752" alt="image" src="https://github.com/user-attachments/assets/543804fe-a3f9-46be-95c6-f0aa2239af65" />
-<br>
-[▶ Watch Demo Video translate and scale](https://drive.google.com/file/d/1cWTzHq1Hnv2nmVd6py_Sz8p4X92YOQZC/view?usp=drive_link)
-<br>
-[▶ Watch Demo Video lighting effects](https://drive.google.com/file/d/1stqHR9WZMTqFQg90IEiNX68vw9J-iSWz/view?usp=drive_link)
-<br>
-[▶ Watch Demo Video rotate and scale](https://drive.google.com/file/d/1lKzaEQyq1enPRqRaauBmLFTAs-Qh3P_a/view?usp=drive_link)
 
+## 🎥 AR Demo Videos
+
+1. [Translate and Scale](https://drive.google.com/file/d/1cWTzHq1Hnv2nmVd6py_Sz8p4X92YOQZC/view?usp=drive_link)  
+2. [Lighting Effects](https://drive.google.com/file/d/1stqHR9WZMTqFQg90IEiNX68vw9J-iSWz/view?usp=drive_link)  
+3. [Rotate and Scale](https://drive.google.com/file/d/1lKzaEQyq1enPRqRaauBmLFTAs-Qh3P_a/view?usp=drive_link)
 
 ## :checkered_flag: Starting
 

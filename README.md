@@ -74,6 +74,11 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
+## :sparkles: Demo
+<img width="516" height="710" alt="image" src="https://github.com/user-attachments/assets/a2661748-0fdc-48e9-bbdb-97cc6874023d" />
+<img width="437" height="752" alt="image" src="https://github.com/user-attachments/assets/543804fe-a3f9-46be-95c6-f0aa2239af65" />
+
+
 ## :checkered_flag: Starting
 
 ```bash

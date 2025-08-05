@@ -46,9 +46,9 @@ View the live demo on your mobile at: https://padmavatisb.github.io/AR_Room_Deco
 1. Using your phone, go to the live website at: https://padmavatisb.github.io/AR_Room_Decor_main/
 2. See the `Enter AR` button at the bottom of the screen and click it
 3. Allow phone permissions to use the camera
-4. See the row of furniture selections in the bottom banner that is horizontally scrollable. When you click the furniture thumbnail, a white border appears around your selection
-5. Pan your phone and walk around and see that a white ring reticle appears to show where you can place your furniture selection
-6. In your phone, white the white ring reticle present, tap the phone screen and see your furniture selection appear in place of the reticle
+4. See the row of furniture selections in the bottom banner that is horizontally scrollable. When you click the furniture thumbnail, a green border appears around your selection
+5. Pan your phone and walk around and see that a green ring reticle appears to show where you can place your furniture selection
+6. In your phone, the green ring reticle present, tap the phone screen and see your furniture selection appear in place of the reticle
 7. You can switch furniture selections and continue walking around and placing furniture
 8. See that as you walk around and pan your phone, you are able to walk around the furniture and view it in 3D in real-time
 9. Clik `Stop AR` to exit the experience
